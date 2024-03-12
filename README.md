@@ -3,7 +3,7 @@
 Welcome to my GitHub profile!
 
 ## Who Am I? 🤔
-I'm a **Python apprentice** from Brazil 🇧🇷. In the road I've taken, it led me to learn and exercise the art of accounting, and that road also led me to the exciting realm of data analysis and project management. And walking this road, I've found my passion in coding, working with data, thinking and (now) building my own projects and of course, a good cup of coffee. ☕
+I'm a **Python apprentice** from Brazil 🇧🇷. In the road I've taken, it led me to learn and exercise the art of accounting, and that road also led me to the exciting realm of data analysis and project management. And walking this road, I've found my passion in coding, working with data, thinking and (now) building my own projects while having a good cup of hot coffee. ☕
 
 ## What I Do? 💻
 Here on GitHub I get to share my little projects with you. From data analysis to Python scripts, each repository is a piece of my journey in coding, and feel free to help if you can! 
