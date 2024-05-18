@@ -11,4 +11,5 @@ Also, Ilike to make personal projects to help me with things outside of work (li
 If you want to reach out, you can access my LinkedIn profile and send me a message.
 
 
-![Profile Views](https://komarev.com/ghpvc/?username=krnCode&color=blueviolet) | [![Ko-Fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/B0B3V8QAU)
+![Profile Views](https://komarev.com/ghpvc/?username=krnCode&color=blueviolet)
+[![Ko-Fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/B0B3V8QAU)
