@@ -10,5 +10,3 @@ If you want to reach out, you can access my LinkedIn profile and send me a messa
 
 
 ![Profile Views](https://komarev.com/ghpvc/?username=krnCode&color=ff5e5b&style=for-the-badge)
-
-[![Ko-Fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/B0B3V8QAU)
