@@ -2,7 +2,7 @@
 
 Welcome to my GitHub profile!
 
-I'm a **python developer** from Brazil.
+I'm a **data analyst and a python developer** from Brazil.
 
 I have experience in accounting, data analysis and project management, and I'm using python to automate tasks, process data and help me and my team reach their goals.
 
