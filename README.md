@@ -4,7 +4,7 @@ Welcome to my GitHub profile!
 
 I'm a **data analyst and a python developer** from Brazil.
 
-I have experience in accounting, data analysis and project management, and I'm using python to automate tasks, process data and help me and my team reach their goals.
+I have experience in accounting, data analysis, ETL processes, project management, and I'm using python to automate tasks, process data and help me and my team reach their goals.
 
 If you want to reach out, you can access my LinkedIn profile and send me a message.
 
