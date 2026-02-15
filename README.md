@@ -1,10 +1,9 @@
 <div align="center">
   <h1>Hi, I'm Paulo! 👋</h1>
   <h3>Data Analyst | Python Developer | Accounting Expert</h3>
-</div>
-
 
 I bridge the gap between **Finance and Technology**. With a solid background in **Accounting and Project Management**, I specialize in transforming complex data into actionable insights and automating repetitive workflows using Python.
+</div>
 
 ---
 
