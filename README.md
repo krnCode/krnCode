@@ -1,8 +1,10 @@
 <div align="center">
   <h1>Hi, I'm Paulo! 👋</h1>
-  <h3>Data Analyst | Python Developer | Accounting Expert</h3>
+  <h3>Senior Data Analyst · Analytics Engineer · Finance & Accounting Domain</h3>
 
-I bridge the gap between **Finance and Technology**. With a solid background in **Accounting and Project Management**, I specialize in transforming complex data into actionable insights and automating repetitive workflows using Python.
+<h3>What I do</h3>
+
+I design and build automated financial data pipelines from raw source data to reporting with focus on accuracy, auditability, and zero manual intervention. Engineering, Analysis and Business Acumen. 3 roles, 1 person.
 </div>
 
 ---
