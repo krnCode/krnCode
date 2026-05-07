@@ -32,7 +32,7 @@ I design and build automated financial data pipelines from raw source data to re
 
 ### Let's Connect!
 
-I'm always open to discussing data automation, financial tech, or interesting projects. Feel free to reach out!
+Always looking for remote roles where finance domain and data engineering matter equally.
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paulosanlkd/)
 
