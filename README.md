@@ -11,10 +11,10 @@ I design and build automated financial data pipelines from raw source data to re
 
 ### About Me
 
-- Based in Brazil.
-- Passionate about **Python** for task automation, building robust **ETL processes** and insightful **data analysis**.
-- Experienced in financial data analysis and optimizing team productivity.
-- Focused on creating efficient, data-driven solutions for business challenges.
+- Based in Brazil, open to remote roles worldwide.
+- 10+ years in Finance & Accounting (FP&A, controllership, auditing), now applied to building automated data pipelines, dimensional models, and analytical tools that finance teams actually trust.
+- Comfortable on both sides of the table: I can read a balance sheet and write the dbt model that feeds it.
+- Currently advancing toward full Analytics Engineering, dbt advanced features, and production-grade pipelines in progress.
 
 ---
 
